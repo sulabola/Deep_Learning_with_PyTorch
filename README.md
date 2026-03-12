@@ -7,3 +7,10 @@ This repository contains my learning notes for deep learning with PyTorch. Speci
 ### Programming Language and Tools
 
 [Python](https://www.python.org/downloads/) / [Google Colab](https://colab.research.google.com/)
+
+
+### Chapters:
+
+- Introduction to Colab
+- Tensors
+- Create a Basic Neural Network Model
